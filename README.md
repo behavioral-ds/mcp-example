@@ -33,7 +33,7 @@
 10. Select "MCP prompt" when drafting a new message:<br />
     <img width="241" src="https://github.com/user-attachments/assets/12495540-ffcc-4710-a345-c941fd05bafd" />
 
-11. That's your `@mcp.all()` parsed into UX element, click it:<br />
+11. That's your `@mcp.prompt()` parsed into UI element, click it:<br />
     <img width="257" src="https://github.com/user-attachments/assets/29d82c3d-d133-47b8-ad42-e0a2b00ae5af" />
 
 12. ...and supply some meaningful content:<br />
